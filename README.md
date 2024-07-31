@@ -15,6 +15,10 @@ can provide effective technical support.
 Initially, there is no GUI tool to deploy WTG, the only way is to use Command Line until the the official WTG creation tool was built in the Enterprise edition of Windows.
 The official tool is simpliy and stable enough, but it lacks some custom settings. Also, there are some portable devices that do not compatible with it.
 
+WINDOWS TO GO制作教程
+链接： https://pan.baidu.com/s/1AghhoDa29dmm1wG80UZFPQ 
+提取码：6666
+
 <h2>Community Forum:</h2>
 Luobotou IT Forum(Chinese) : https://bbs.luobotou.org/
 
