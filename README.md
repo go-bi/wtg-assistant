@@ -18,6 +18,15 @@ The official tool is simpliy and stable enough, but it lacks some custom setting
 WINDOWS TO GO制作教程
 链接： https://pan.baidu.com/s/1AghhoDa29dmm1wG80UZFPQ 
 提取码：6666
+【新手必看】WTG食用指北[解决WTG常见的问题，不定期更新]
+链接:https://bbs.luobotou.org/bstra/thread-50097-1-1.html
+WTG备份新方法——FFU镜像格式
+链接：https://bbs.luobotou.org/bstra/forum.php?mod=viewthread&tid=46043
+链接：https://bbs.luobotou.org/bstra/thread-51110-1-1.html
+WTG使用心得之驱动篇
+链接：https://bbs.luobotou.org/bstra/thread-51739-1-1.html
+链接：http://www.drivermagician.com/Lite.htm
+链接：https://bbs.luobotou.org/bstra/thread-55865-1-1.html
 
 <h2>Community Forum:</h2>
 Luobotou IT Forum(Chinese) : https://bbs.luobotou.org/
